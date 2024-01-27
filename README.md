@@ -50,7 +50,7 @@ A passionate Web,Blockchain and App developer with expertise in the MERRNN (MySQ
 
 ## Projects
 - [Rant Hq](Not deployed but Available in Repo): A social media application that allows buying and selling.
-- [My portfolio](https://baddestglo.vercel.app): My portfolio.
+- [My portfolio](https://glothedev.vercel.app): My portfolio.
 - [Noki Mobile] : A data selling utility Android & iOS application
 
 ## Experience
